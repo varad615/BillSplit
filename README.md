@@ -1,6 +1,6 @@
 # BillSplit
 
-![BillSplit](https://github.com/username/repo/blob/main/billsplit_logo.png)
+![icon](https://user-images.githubusercontent.com/30592638/123993686-477ed080-d9ea-11eb-930e-f5357837758a.png)
 
 ## Overview
 BillSplit is an Android application developed in Java using Android Studio. It aims to simplify the process of splitting bills among a group of people. The app allows users to add expenses, specify the participants, and calculates the individual share for each person, making bill splitting hassle-free.
